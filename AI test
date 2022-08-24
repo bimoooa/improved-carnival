@@ -1,0 +1,10 @@
+a = 5
+b = 3
+c = 7
+
+# operasi campuran
+hasil = a * b + c / a ** b - a
+print(a,'*',b,'+',c,'/',a,'**',b,'-',a,'=',hasil)
+
+hasil = c * a + b
+print(c,'*',a,'+',b,'=',hasil)
